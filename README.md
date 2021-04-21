@@ -59,16 +59,16 @@
 
 > 刷入magisk
 
-   使用酷友分享的一键刷入`boot.img`工具
-   工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
-   里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
-            如果是全新没root过的手机，顺序的部分是
-                  1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
-                  2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
-                  3. 修补完成会产生 Patch_boot.img ，将其提取到电脑
-                  4. 手机端重开到 Fastboot 模式
-                  5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
-                  6. 重开机，Enjoy
+     使用酷友分享的一键刷入`boot.img`工具
+     工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
+     里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
+     如果是全新没root过的手机，顺序的部分是
+            1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
+            2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
+            3. 修补完成会产生 Patch_boot.img ，将其提取到电脑
+            4. 手机端重开到 Fastboot 模式
+            5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
+            6. 重开机，Enjoy
 
          
          注意事项：把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！（里面附有使用说明，也就是注意事项里面的这两句话，滑稽）
