@@ -1,6 +1,6 @@
 > ==出现下面的问题可以参考此文章（滑稽==
   - 重启持续进入fastboot
-  - 电脑端点击刷入后迟迟不显示==“刷机完成！请手动恢复出厂设置”==
+  - 电脑端点击刷入后迟迟不显示=“刷机完成！请手动恢复出厂设置”=
 
 > 解决方案
    - 安装驱动（没有蓝奏云，也不大就这个吧）
@@ -59,9 +59,9 @@
 
 > 刷入magisk
 
-        使用酷友分享的一键刷入`boot.img`工具
-        工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
-            里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
+   使用酷友分享的一键刷入`boot.img`工具
+   工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
+   里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
             如果是全新没root过的手机，顺序的部分是
                   1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
                   2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
