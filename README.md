@@ -6,4 +6,13 @@
    - 安装驱动（没有蓝奏云，也不大就这个吧）
     链接：https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ 提取码：ybdk 
     
-
+   - Windows 10
+        如果要在 Windows 10 系统上首次安装 Android USB 驱动程序，请执行以下操作：
+        将您的 Android 设备连接到计算机的 USB 端口。
+        在 Windows 资源管理器中，打开计算机管理。
+        在计算机管理左侧窗格中，选择设备管理器。
+        在设备管理器右侧窗格中，找到并展开便携式设备或其他设备，具体取决于您看到的是哪一项。
+        右键点击已连接设备的名称，然后选择更新驱动程序软件。
+        在硬件更新向导中，选择浏览计算机以查找驱动程序软件，然后点击下一步。
+        点击浏览，然后找到 USB 驱动程序文件夹。例如，Google USB 驱动程序位于 android_sdk\extras\google\usb_driver\。
+        点击下一步以安装驱动程序。
