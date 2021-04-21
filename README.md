@@ -61,20 +61,40 @@
 
    使用酷友分享的一键刷入`boot.img`工具
    工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
-   里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
-   如果是全新没root过的手机，顺序的部分是
-          1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
-          2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
-          3. 修补完成会产生 Patch_boot.img ，将其提取到电脑
-          4. 手机端重开到 Fastboot 模式
-          5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
-          6. 重开机，Enjoy
+   
+              里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
+              如果是全新没root过的手机，顺序的部分是
+                1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
+                2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
+                3. 修补完成会产生 Patch_boot.img ，将其提取到电脑
+                4. 手机端重开到 Fastboot 模式
+                5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
+                6. 重开机，Enjoy
 
          
-         注意事项：把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！（里面附有使用说明，也就是注意事项里面的这两句话，滑稽）
-                   如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
+   *注意事项：把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！（里面附有使用说明，也就是注意事项里面的这两句话，滑稽）
+            如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
+            
+                   
+刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子面具教程。很详细，建议多看几遍，嘿嘿。 
+https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2
+
+详细刷机方法可以参考`@wushidi`大佬的帖子https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2
+
+参考工具还有`@残芯此生不换_TWRP`大佬的输入工具2.0 https://chuxin86.lanzous.com/i0KpInnxgvg
+
+            
+k40 谷歌相机请访问`@魂梦九霄`的博客https://blog.lcon.wang/index.php/archives/102.html
+
 
 参考文档 https://developer.android.com/studio/run/oem-usb#InstallingDriver
+        https://blog.csdn.net/abcs77/article/details/109698777
+
+感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包
+感谢酷安`@浅陌初心i`大佬
+感谢酷安`@wushidi`大佬
+感谢酷安`@残芯此生不换_TWRP`大佬
+感谢酷安`@shenmedongxi`的文案提供
        
         
         
