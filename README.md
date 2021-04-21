@@ -58,6 +58,7 @@
 
 
 > 刷入magisk
+
         使用酷友分享的一键刷入`boot.img`工具
         工具链接地址链接：https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw 提取码：q8fe 
             里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
