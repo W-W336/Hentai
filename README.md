@@ -5,7 +5,8 @@
 ## 解决方案
    - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
      
-   - Windows 10
+### Windows 10
+
        1. 如果要在 Windows 10 系统上首次安装 Android USB 驱动程序，请执行以下操作：
        2. 将您的 Android 设备连接到计算机的 USB 端口。
        3. 在 Windows 资源管理器中，打开计算机管理。
