@@ -62,8 +62,8 @@
 
    使用酷友分享的[一键刷入`boot.img`工具](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw),提取码：q8fe 
    
-   里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
-   如果是全新没root过的手机，顺序的部分是
+   里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可<br>
+   如果是全新没root过的手机，顺序如下
    ```
    1. 先提取目前ROM的Boot.img（每个OEM ROM的更新都会有）
    2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
