@@ -3,9 +3,8 @@
   - 电脑端点击刷入后迟迟不显示=“刷机完成！请手动恢复出厂设置”=
 
 ## 解决方案
-   - 安装驱动（没有蓝奏云，也不大就这个吧）
-     链接：https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ 提取码：ybdk 
-    
+   - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
+     
    - Windows 10
        1. 如果要在 Windows 10 系统上首次安装 Android USB 驱动程序，请执行以下操作：
        2. 将您的 Android 设备连接到计算机的 USB 端口。
@@ -59,7 +58,7 @@
 
 # 刷入magisk
 
-   使用酷友分享的一键刷入[`boot.img`](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw)工具,提取码：q8fe 
+   使用酷友分享的[一键刷入`boot.img`工具](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw),提取码：q8fe 
    
    里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可
    如果是全新没root过的手机，顺序的部分是
@@ -71,7 +70,7 @@
    5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
    6. 重开机，Enjoy
    ```
-   *注意事项：把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！（里面附有使用说明，也就是注意事项里面的这两句话，滑稽）
+ *注意事项：把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！（里面附有使用说明，也就是注意事项里面的这两句话，滑稽）
             如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
             
                    
