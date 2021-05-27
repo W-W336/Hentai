@@ -2,10 +2,10 @@
   - 重启持续进入fastboot
   - 电脑端点击刷入后迟迟不显示`刷机完成！请手动恢复出厂设置`
 
-## 解决方案
+# 解决方案
    - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
      
->### Windows 10
+>## Windows 10
 
        1. 如果要在 Windows 10 系统上首次安装 Android USB 驱动程序，请执行以下操作：
        2. 将您的 Android 设备连接到计算机的 USB 端口。
@@ -19,7 +19,7 @@
        10. 安装好了
 
 
->### Windows 8.1 
+>## Windows 8.1 
 
        1. 如果要在 Windows 8.1 系统上首次安装 Android USB 驱动程序，请执行以下操作：
        2. 将您的 Android 设备连接到计算机的 USB 端口。
@@ -31,7 +31,7 @@
          - 点击驱动程序标签页，点击更新驱动程序，然后按照说明操作。
 
 
->### Windows 7
+>## Windows 7
        1.将您的 Android 设备连接到计算机的 USB 端口。
        2.从桌面上或 Windows 资源管理器中右键点击计算机，然后选择管理。
        3.在左侧窗格中选择设备。
