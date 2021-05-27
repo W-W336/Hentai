@@ -72,7 +72,7 @@
    5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
    6. 重开机，Enjoy
    ```
- ### <font color="#A52A2A">注意事项</font>：<br>
+ ### 注意事项：<br>
  - 把你自己修补好的boot文件改名1.img放到刷入工具的路径，注意后缀不能出问题！<br>
  - 如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
  
@@ -82,9 +82,10 @@
 - 详细刷机方法可以参考`@wushidi`大佬的[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)
 - 参考工具还有`@残芯此生不换_TWRP`大佬的[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)
 - k40 谷歌相机请访问`@魂梦九霄`的[博客](https://blog.lcon.wang/index.php/archives/102.html)
-***
+***<br>
+
 参考文档:<br>
-https://developer.android.com/studio/run/oem-usb#InstallingDriver<br>https://blog.csdn.net/abcs77/article/details/109698777
+https://developer.android.com/studio/run/oem-usb#InstallingDriver<br>https://blog.csdn.net/abcs77/article/details/109698777<br>
 ***
 # 特别感谢
 感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包<br>
