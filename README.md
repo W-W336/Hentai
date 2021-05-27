@@ -1,9 +1,9 @@
 # 出现下面的问题可以参考此文章
   - 重启持续进入fastboot
   - 电脑端点击刷入后迟迟不显示`刷机完成！请手动恢复出厂设置`
-
+***
 # 解决方案
-   - 安装*[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ)*,提取码：ybdk 
+   - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
      
 >## Windows 10
 
@@ -53,7 +53,7 @@
        7. 选择在这些位置上搜索最佳驱动程序，取消选中搜索可移动媒体，并选中在搜索中包括这个位置。
        8. 点击浏览，然后找到 USB 驱动程序文件夹。（Google USB 驱动程序位于 android_sdk\extras\google\usb_driver\。）
        9. 点击下一步以升级驱动程序。
-
+***
 # 进入到正常的安装流程
   - 重启到 fb，双击刷机包里的 “双击刷入.bat” 直到出现 “刷机完成！请手动恢复出厂设置”，然后在 fastbootd 里选择 recovery 双清重启就可以了。
 
@@ -78,14 +78,14 @@
  
 ***
 ## 其他帮助：
-- 刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子**[面具教程](https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)**。很详细，建议多看几遍
-- 详细刷机方法可以参考`@wushidi`大佬的**[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)**
-- 参考工具还有`@残芯此生不换_TWRP`大佬的**[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)**
-- k40 谷歌相机请访问`@魂梦九霄`的**[博客](https://blog.lcon.wang/index.php/archives/102.html)**
+- 刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子[面具教程](https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)。很详细，建议多看几遍
+- 详细刷机方法可以参考`@wushidi`大佬的[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)**
+- 参考工具还有`@残芯此生不换_TWRP`大佬的[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)
+- k40 谷歌相机请访问`@魂梦九霄`的[博客](https://blog.lcon.wang/index.php/archives/102.html)
 ***
 参考文档:<br>
 https://developer.android.com/studio/run/oem-usb#InstallingDriver<br>https://blog.csdn.net/abcs77/article/details/109698777
-   
+***
 # 特别感谢
 感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包<br>
 感谢酷安`@浅陌初心i`大佬<br>
