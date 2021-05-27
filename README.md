@@ -3,7 +3,7 @@
   - 电脑端点击刷入后迟迟不显示`刷机完成！请手动恢复出厂设置`
 
 # 解决方案
-   - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
+   - 安装**[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ)**,提取码：ybdk 
      
 >## Windows 10
 
@@ -60,7 +60,7 @@
 
 # 刷入magisk
 
-   使用酷友分享的[一键刷入`boot.img`工具](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw),提取码：q8fe 
+   使用酷友分享的**[一键刷入`boot.img`工具](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw)**,提取码：q8fe 
    
    里面有`booot.img`镜像文件，就是酷安`@魂梦九霄`大佬分享的类原生hentai包里面的，不放心的自行更换即可<br>
    如果是全新没root过的手机，顺序如下
@@ -77,10 +77,10 @@
  如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
  
 ## 其他帮助：
-- 刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子[面具教程](https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)。很详细，建议多看几遍
-- 详细刷机方法可以参考`@wushidi`大佬的[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)
-- 参考工具还有`@残芯此生不换_TWRP`大佬的[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)
-- k40 谷歌相机请访问`@魂梦九霄`的[博客](https://blog.lcon.wang/index.php/archives/102.html)
+- 刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子**[面具教程](https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)**。很详细，建议多看几遍
+- 详细刷机方法可以参考`@wushidi`大佬的**[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)**
+- 参考工具还有`@残芯此生不换_TWRP`大佬的**[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)**
+- k40 谷歌相机请访问`@魂梦九霄`的**[博客](https://blog.lcon.wang/index.php/archives/102.html)**
 
 
 参考文档:<br>
