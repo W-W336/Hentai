@@ -75,17 +75,17 @@
             如果跟手机连接不正常。请在本工具包找到驱动文件安装试试。
             
                    
-刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子面具教程。很详细，建议多看几遍，嘿嘿。 
-https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2
+刷入`boot.img`工具也可以使用`@浅陌初心i`大佬的,酷安搜索他的帖子[面具教程](https://www.coolapk.com/feed/26100021?shareKey=ZTUyNzZlOWVjZDJiNjA4MDNjZDU~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)。很详细，建议多看几遍，嘿嘿。 
 
 
-详细刷机方法可以参考`@wushidi`大佬的帖子https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2
+
+详细刷机方法可以参考`@wushidi`大佬的[帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)
 
 
-参考工具还有`@残芯此生不换_TWRP`大佬的输入工具2.0 https://chuxin86.lanzous.com/i0KpInnxgvg
+参考工具还有`@残芯此生不换_TWRP`大佬的[输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)
 
             
-k40 谷歌相机请访问`@魂梦九霄`的博客https://blog.lcon.wang/index.php/archives/102.html
+k40 谷歌相机请访问`@魂梦九霄`的[博客](https://blog.lcon.wang/index.php/archives/102.html)
 
 
 参考文档 https://developer.android.com/studio/run/oem-usb#InstallingDriver
@@ -93,9 +93,9 @@ k40 谷歌相机请访问`@魂梦九霄`的博客https://blog.lcon.wang/index.ph
 
 感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包
 <br></br>
-感谢酷安`@浅陌初心i`大佬
-感谢酷安`@wushidi`大佬
-感谢酷安`@残芯此生不换_TWRP`大佬
+感谢酷安`@浅陌初心i`大佬<br></br>
+感谢酷安`@wushidi`大佬<br></br>
+感谢酷安`@残芯此生不换_TWRP`大佬<br></br>
 感谢酷安`@shenmedongxi`的文案提供
        
         
