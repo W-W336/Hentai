@@ -1,6 +1,6 @@
 # 出现下面的问题可以参考此文章
   - 重启持续进入fastboot
-  - 电脑端点击刷入后迟迟不显示=“刷机完成！请手动恢复出厂设置”=
+  - 电脑端点击刷入后迟迟不显示==“刷机完成！请手动恢复出厂设置”==
 
 ## 解决方案
    - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
@@ -84,8 +84,7 @@
 
 
 参考文档:<br>
-https://developer.android.com/studio/run/oem-usb#InstallingDriver<br></br>
-        https://blog.csdn.net/abcs77/article/details/109698777
+https://developer.android.com/studio/run/oem-usb#InstallingDriver<br>https://blog.csdn.net/abcs77/article/details/109698777
    
 # 特别感谢
 感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包<br>
