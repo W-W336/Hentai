@@ -1,7 +1,7 @@
 # 出现下面的问题可以参考此文章
   - 重启持续进入fastboot
   - 电脑端点击刷入后迟迟不显示=“刷机完成！请手动恢复出厂设置”=
-  - [camera](#k40 谷歌相机请访问)
+  - [camera](#刷入magisk)
 
 ## 解决方案
    - 安装[驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
@@ -86,15 +86,15 @@
 - k40 谷歌相机请访问`@魂梦九霄`的[博客](https://blog.lcon.wang/index.php/archives/102.html)
 
 
-参考文档 
+参考文档:<br>
 https://developer.android.com/studio/run/oem-usb#InstallingDriver<br></br>
         https://blog.csdn.net/abcs77/article/details/109698777
    
 # 特别感谢
-感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包<br></br>
-感谢酷安`@浅陌初心i`大佬<br></br>
-感谢酷安`@wushidi`大佬<br></br>
-感谢酷安`@残芯此生不换_TWRP`大佬<br></br>
+感谢酷安`@魂梦九霄`大佬提供的建议思路，以及分享的hentai包<br>
+感谢酷安`@浅陌初心i`大佬<br>
+感谢酷安`@wushidi`大佬<br>
+感谢酷安`@残芯此生不换_TWRP`大佬<br>
 感谢酷安`@shenmedongxi`的文案提供
        
         
