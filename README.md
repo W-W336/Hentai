@@ -58,7 +58,7 @@
   - 重启到 fb，双击刷机包里的 “双击刷入.bat” 直到出现 “刷机完成！请手动恢复出厂设置”，然后在 fastbootd 里选择 recovery 双清重启就可以了。
 
 ***
-# 刷入magisk
+# 刷入 magisk
 
    使用酷友分享的 [一键刷入`boot.img`工具](https://pan.baidu.com/s/1drGiTLXGXwqNT9KAQml2Rw)，提取码：q8fe 
    
