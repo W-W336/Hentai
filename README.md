@@ -3,7 +3,7 @@
   - 电脑端点击刷入后迟迟不显示`刷机完成！请手动恢复出厂设置`
 ***
 # 解决方案
-   - 安装 [驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ),提取码：ybdk 
+   - 安装 [驱动](https://pan.baidu.com/s/191DWjPZeuRBIlqkJxYAyVQ)，提取码：ybdk 
      
 >## Windows 10
 
