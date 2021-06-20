@@ -66,11 +66,12 @@
    如果是全新没 root 过的手机，顺序如下
    ```
    1. 先提取目前 ROM 的 Boot.img（每个 OEM ROM 的更新都会有）
-   2. 把 Magisk App 进行安装，从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
-   3. 修补完成会产生 Patch_boot.img ，将其提取到电脑
-   4. 手机端重开到 Fastboot 模式
-   5. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
-   6. 重开机，Enjoy
+   2. 进行安装 Magisk App 
+   3. 从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
+   4. 修补完成会产生 Patch_boot.img ，将其提取到电脑
+   5. 手机端重开到 Fastboot 模式
+   6. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
+   7. 重开机，Enjoy
    ```
  ### 注意事项：<br>
  - 把你自己修补好的 boot 文件改名 1.img 放到刷入工具的路径，注意后缀不能出问题！<br>
