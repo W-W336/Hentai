@@ -82,7 +82,7 @@
 - 详细刷机方法可以参考`@wushidi`大佬的 [帖子](https://www.coolapk.com/feed/17697847?shareKey=Y2MwMjU2MTA2ZTc4NjA4MDNiZTM~&shareUid=2840059&shareFrom=com.coolapk.market_11.1.2)
 - 参考工具还有`@残芯此生不换_TWRP`大佬的 [输入工具2.0](https://chuxin86.lanzous.com/i0KpInnxgvg)
 - k40 谷歌相机请访问`@魂梦九霄`的 [博客](https://blog.lcon.wang/index.php/archives/102.html)
-***<br>
+***
 
 参考文档:<br>
 https://developer.android.com/studio/run/oem-usb#InstallingDriver<br>https://blog.csdn.net/abcs77/article/details/109698777<br>
