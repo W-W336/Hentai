@@ -70,7 +70,7 @@
    3. 从 App 里面的安装，选择 Patch Boot（选择并修补一个文件，修补完成的会保存在Download文件夹中，命名为magisk_patched-xxx.img）
    4. 修补完成会产生 Patch_boot.img ，将其提取到电脑
    5. 手机端重开到 Fastboot 模式
-   6. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区
+   6. 电脑端将刚刚提取的修补档案用 Fastboot 指令刷入 Boot 分割区（fastboot flash boot boot.img）
    7. 重开机，Enjoy
    ```
  ### 注意事项：<br>
